@@ -58,3 +58,10 @@ h1 {
   color: white;
   font-size: 60px;
 }
+.container-div{ 
+  display: flex;
+  height: 50vh;
+  width: 100vw; 
+  align-items: center;
+  justify-content: center;
+  }
